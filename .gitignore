@@ -1,0 +1,6 @@
+__pycache__
+
+.env
+
+# Ignore Firebase service account key
+server/config/signify-29c6f-firebase-adminsdk-hyag2-faed26482c.json

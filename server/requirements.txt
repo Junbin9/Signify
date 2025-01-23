@@ -1,0 +1,13 @@
+fastapi
+fastapi[standard]
+uvicorn
+firebase-admin
+opencv-python
+opencv-python-headless
+python-dotenv
+pyjwt
+python-multipart
+numpy
+pywavelets
+scipy
+cryptography
